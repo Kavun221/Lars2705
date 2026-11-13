@@ -1,5 +1,5 @@
 Hi there, my name is Lars 👋
-
+/*
 <!-- <hr> -->
 
 ***
@@ -23,3 +23,4 @@ Hi there, my name is Lars 👋
 [<img src= "https://miro.medium.com/max/766/1*Yf48dlC5RhXYPV3gLeaLdg.png" width="50" height="50">](https://git-scm.com/)
 [<img src= "https://external-preview.redd.it/V77U-n3OuvNr2I14hRYUcyXBJ1C9dEMV3HUt3dAIViw.png?auto=webp&s=20d05cf394bd203741ddfdffa904af94fdd90544" width="50" height="50">](https://www.gnu.org/software/bash/)
 [<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/800px-Matlab_Logo.png" width="50" height="50">](https://se.mathworks.com/products/matlab.html/)
+*/
